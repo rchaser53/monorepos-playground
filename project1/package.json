@@ -4,13 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lerna": "lerna"
+    "hoge": "echo 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "lerna": "^2.4.0"
+    "babel-cli": "^6.26.0"
   }
 }

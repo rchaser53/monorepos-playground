@@ -4,13 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lerna": "lerna"
+    "hoge": "echo 2"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "ava": "^0.5.0",
-    "lerna": "^2.4.0"
+    "ava": "^0.5.0"
   }
 }
