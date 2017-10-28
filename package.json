@@ -1,0 +1,26 @@
+{
+  "name": "monorepos-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lerna": "lerna"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchaser53/monorepos-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rchaser53/monorepos-playground/issues"
+  },
+  "homepage": "https://github.com/rchaser53/monorepos-playground#readme",
+  "devDependencies": {
+    "lerna": "^2.4.0"
+  },
+  "dependencies": {
+    "vue": "^2.5.2"
+  }
+}

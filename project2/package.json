@@ -1,0 +1,16 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lerna": "lerna"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.5.0",
+    "lerna": "^2.4.0"
+  }
+}
