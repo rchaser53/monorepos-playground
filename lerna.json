@@ -1,9 +1,14 @@
 {
   "lerna": "2.4.0",
   "npmClient": "yarn",
+  "npmClientArgs": [],
   "version": "0.0.0",
   "packages": [
-    "project1",
-    "project2"
-  ]
+    "src/*"
+  ],
+  "publish": {
+    "ignore": [
+      "src/*"
+    ]
+  }
 }
